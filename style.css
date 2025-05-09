@@ -1,0 +1,199 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color: #fffbf3;
+  }
+  
+  .logo {
+    width: 150px;
+    margin-right: 20px;
+  }
+  
+  .logo img {
+    width: 100%;
+    height: auto;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 50px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color: #ff9305;
+  }
+  
+  .btn {
+    background-color: #ff9305;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .btn:hover{
+    background-color: #a84c00;
+    
+  }
+  
+   h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #424242;
+   }
+
+   p {
+    font-size: 20px;
+    color: #4b4b4b;
+   }
+   .contenido {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px;
+    background-color: #fff9ec;
+   }
+   .texto{
+    width: 60%;
+    margin-top: -300px;
+   }
+
+   .imagen {
+    width: 700px;
+   }
+
+   .imagen img {
+    width: 100%;
+    height: auto;
+   }
+
+   
+   .botones {
+    margin-top: 50px;
+  }
+
+  .btn-primario{
+    background-color: #e07f00;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 25px;
+  }
+    .btn-segundario{
+    background-color: #fff;
+    color: #636363;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 25px;
+    }
+
+    .botones :hover{
+      background-color: #a84c00;
+      
+    }
+   .imagenes{
+    text-align:  center;
+    margin-top: 40px;
+   }
+   .titulo {
+    font-size: 15px;
+    font-weight: bold;
+   }
+  .imagenes-container{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    filter: grayscale(100%);
+  }
+
+  .imagenes-container img {
+    width: 120px;
+    margin-right: 5px;
+  }
+
+  .Comofunciona {
+    font-size: 22px;
+    margin-top: 90px;
+    margin-left: 80px;
+    color: #e98c40;
+    font-weight: bold;
+  }
+
+  section h2 {
+    font-size: 50px;
+    margin-left: 80px;
+    margin-top: 10px;
+    color: #2e2e2e;
+
+  }
+
+  .Cuentanos{
+    display: flex;
+  }
+.textoo {
+  width: 40px;
+}
+
+
+
+.contenidoo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.textoo {
+  width: 60%;
+}
+
+.numero {
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 80px;
+  color: #c0c0c0;
+  margin-bottom: 10px;
+
+}
+
+.textoo h3 {
+  font-size: 30px;
+  margin-left: 80px;
+  margin-top: 20px;
+  color: rgb(32, 32, 32);
+}
+
+img {
+  width: 200px;
+  height: auto;
+  margin-right: 250px;
+  margin-top: 50px;
+
+}
+
+.parrafo2 {
+  font-size: 20px;
+  margin-left: 80px;
+
+}
